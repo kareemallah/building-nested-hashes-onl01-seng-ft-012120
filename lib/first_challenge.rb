@@ -9,6 +9,7 @@ def first_challenge
      :capulet => {
        :patriarch
        :matriarch
+       :heroine
      }
    }
 end
